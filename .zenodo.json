@@ -36,7 +36,7 @@
             "scheme": "doi",
             "identifier": "https://doi.org/10.5281/zenodo.7746079",
             "relation": "isSourceOf",
-            "resource_type": "data"
+            "resource_type": "dataset"
         }
     ],
 
